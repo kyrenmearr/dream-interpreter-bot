@@ -2,7 +2,7 @@ from llama_index import VectorStoreIndex, GPTSimpleVectorIndex, SimpleDirectoryR
 import openai
 import os
 
-openai_api_key = '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'
+openai_api_key =
 
 WikipediaReader = download_loader('WikipediaReader')
 
